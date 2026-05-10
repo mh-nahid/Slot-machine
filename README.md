@@ -25,7 +25,7 @@ The machine uses a 3x3 grid with the following symbol distributions and values:
 
 ## 📸 Output Preview
 
-> **Note**: To see this in your repository, replace C:\Users\USER\Desktop` with the actual path to your saved image.
+
 
 ![Slot Machine Output](output.png)
 
@@ -44,8 +44,8 @@ The machine uses a 3x3 grid with the following symbol distributions and values:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/slot-machine-python.git](https://github.com/your-username/slot-machine-python.git)
-    ```
+    git clone https://github.com/mh-nahid/slot-machine-python.git
+    
 2.  **Navigate to the Directory**:
     ```bash
     cd slot-machine-python
