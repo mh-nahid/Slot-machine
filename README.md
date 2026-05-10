@@ -27,7 +27,7 @@ The machine uses a 3x3 grid with the following symbol distributions and values:
 
 > **Note**: To see this in your repository, replace C:\Users\USER\Desktop` with the actual path to your saved image.
 
-![Slot Machine Output](C:\Users\USER\Desktop)
+![Slot Machine Output](output.png)
 
 ## 🛠️ Technology Stack
 
