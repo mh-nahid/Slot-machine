@@ -44,11 +44,11 @@ The machine uses a 3x3 grid with the following symbol distributions and values:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/mh-nahid/slot-machine-python.git
-    
+    git clone https://github.com/mh-nahid/slot-machine.git
+
 2.  **Navigate to the Directory**:
     ```bash
-    cd slot-machine-python
+    cd slot-machine
     ```
 3.  **Run the Game**:
     ```bash
